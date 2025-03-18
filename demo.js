@@ -3,3 +3,5 @@ document.addEventListener('click',()=>{
         console.log('hello');
     },3000);
 })
+
+console.log("this is my practice work")
